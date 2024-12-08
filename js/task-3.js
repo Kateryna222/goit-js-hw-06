@@ -4,7 +4,7 @@ class StringBuilder {
     constructor(initialValue) {
         this.#value = value;
       }
-      getValue() {
+    getValue() {
         return this.#value;
       }
 
